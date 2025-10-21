@@ -96,7 +96,8 @@ Bu proje, **ESP32-CAM** modülü ve bir **PIR hareket sensörü** kullanarak, ha
 ## 🧑‍💻 Geliştirici
 
 **Hasan Elreceb**  
-📧 [elrecephasan@gmail.com](mailto:elrecephasan@gmail.com)
+- **Email:** [elrecephasan@gmail.com](mailto:elrecephasan@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hasan-elreceb](https://www.linkedin.com/in/hasan-elreceb)
 
 ---
 
