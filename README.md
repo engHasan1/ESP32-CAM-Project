@@ -1,4 +1,6 @@
 # ESP32-CAM Hareket Algılama ve Telegram Uyarı Sistemi
+Kablosuz Ağ Teknolojileri dersi projesi
+Dr. Öğr. Üyesi Hasan Serdar danışmanlığında
 
 Bu proje, **ESP32-CAM** modülü ve bir **PIR hareket sensörü** kullanarak, hareket algılandığında otomatik olarak bir fotoğraf çekip **Telegram** üzerinden gönderen bir güvenlik sistemi sunar.
 
